@@ -1,0 +1,17 @@
+# Zbudowana strona (generowana automatycznie)
+/public/
+/resources/_gen/
+
+# Pamięć podręczna i logi Hugo
+.hugo_build.lock
+hugo_stats.json
+
+# Zmienne środowiskowe (jeśli używasz)
+.env
+.env.*
+
+# Systemowe i edytory
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
