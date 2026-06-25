@@ -1,6 +1,6 @@
 baseURL = 'https://marcinpendolski.pl'
 locale = 'pl-PL'
-title = 'My New Hugo Project'
+title = 'Strona główna'
 theme = 'congo'
 
 # Congo wymaga wyjścia JSON dla poprawnego działania wbudowanej wyszukiwarki
@@ -25,12 +25,12 @@ theme = 'congo'
 [params.author]
   name = "Marcin Pendolski"
   image = "profile.jpg" # Plik należy umieścić w folderze: assets/profile.jpg
-  headline = "Data Analyst | AI & RAG Enthusiast"
-  bio = "Zajmuję się tłumaczeniem danych na język biznesu, budową lokalnych systemów RAG oraz analizą statystyczną i obalaniem mitów."
+  headline = "Senior Data Analyst | Generative AI & Customer Experience"
+  bio = "15 lat doświadczenia w analizie danych CX i Contact Center. W Grupie TAURON odpowiadam za transformację danych w decyzje biznesowe. Wdrażam modele GenAI i analizę sentymentu do optymalizacji obsługi milionów klientów. Zapraszam do kontaktu i wymiany doświadczeń w obszarze Data & AI!"
   links = [
-    { email = "mailto:marcin@twojadomena.pl" },
-    { linkedin = "https://linkedin.com/in/marcin-pendolski" },
-    { github = "https://github.com/marcin-pendolski" }
+    { email = "mailto:marcin.pendolski@gmail.com" },
+    { linkedin = "https://linkedin.com/in/marcinpendolski" },
+    { github = "https://github.com/PendolM" }
   ]
 
 # Ustawienia artykułów (wygodne dla wpisów technicznych i kodu)
