@@ -2,3 +2,62 @@ baseURL = 'https://PendolM.github.io/portfolio'
 locale = 'pl-PL'
 title = 'My New Hugo Project'
 theme = 'congo'
+
+# Congo wymaga wyjścia JSON dla poprawnego działania wbudowanej wyszukiwarki
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  # Estetyka i kolorystyka (slate = nowoczesny, techniczny grafit)
+  colorScheme = "slate"
+  showAppearanceToggle = true # Przełącznik trybu ciemnego/jasnego
+  showScrollToTop = true
+
+# Konfiguracja nagłówka (flex umieszcza logo/nazwę po lewej, a menu po prawej)
+[params.header]
+  layout = "flex"
+
+# Aktywacja układu graficznej wizytówki na stronie głównej
+[params.homepage]
+  layout = "profile"
+
+# Dane profilowe autora wyświetlane na stronie głównej
+[params.author]
+  name = "Marcin Pendolski"
+  image = "profile.jpg" # Plik należy umieścić w folderze: assets/profile.jpg
+  headline = "Data Analyst | AI & RAG Enthusiast"
+  bio = "Zajmuję się tłumaczeniem danych na język biznesu, budową lokalnych systemów RAG oraz analizą statystyczną i obalaniem mitów."
+  links = [
+    { email = "mailto:marcin@twojadomena.pl" },
+    { linkedin = "https://linkedin.com/in/marcin-pendolski" },
+    { github = "https://github.com/marcin-pendolski" }
+  ]
+
+# Ustawienia artykułów (wygodne dla wpisów technicznych i kodu)
+[params.article]
+  showCodeCopyButton = true   # Przycisk "Kopiuj" przy blokach kodu (np. Python)
+  showTableOfContents = true  # Spis treści (TOC) boczny/przyklejony
+  showBreadcrumbs = true      # Ścieżka nawigacji na górze wpisu
+  showReadingTime = true      # Szacowany czas czytania
+  showDate = true             # Data publikacji
+
+# Wbudowana wyszukiwarka w nagłówku
+[params.search]
+  enable = true
+  showInHeader = true
+
+# Główne menu nawigacyjne (będzie wyrównane do prawej dzięki nagłówkowi flex)
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  name = "LLM Wiki"
+  url = "/wiki/"
+  weight = 20
+
+[[menu.main]]
+  name = "Data vs Mity"
+  url = "/mity/"
+  weight = 30
