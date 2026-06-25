@@ -40,7 +40,7 @@ jobs:
 
       - name: Build with Hugo
         env:
-          HUGO_CACHEDIR: ${{ image.png && '/tmp/hugo_cache' || '/tmp/hugo_cache' }}
+          HUGO_CACHEDIR: /tmp/hugo_cache
         run: |
           hugo \
             --gc \
