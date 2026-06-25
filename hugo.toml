@@ -1,0 +1,4 @@
+baseURL = 'https://PendolM.github.io/portfolio'
+locale = 'pl-PL'
+title = 'My New Hugo Project'
+theme = 'congo'

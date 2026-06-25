@@ -1,0 +1,57 @@
+name: Deploy Hugo site to Pages
+
+on:
+  push:
+    branches:
+      - main  # lub master, zależnie od Twojej głównej gałęzi
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive  # Ważne, jeśli Twój motyw to submodule
+          fetch-depth: 0
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true         # Włączone, bo większość motywów wymaga wersji extended
+
+      - name: Build with Hugo
+        env:
+          HUGO_CACHEDIR: ${{ image.png && '/tmp/hugo_cache' || '/tmp/hugo_cache' }}
+        run: |
+          hugo \
+            --gc \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
