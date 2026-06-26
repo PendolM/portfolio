@@ -12,6 +12,7 @@ theme = 'congo'
   colorScheme = "slate"
   showAppearanceToggle = true # Przełącznik trybu ciemnego/jasnego
   showScrollToTop = true
+  logo = "static/img/logo.png"
 
 # Konfiguracja nagłówka (flex umieszcza logo/nazwę po lewej, a menu po prawej)
 [params.header]
