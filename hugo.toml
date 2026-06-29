@@ -29,6 +29,7 @@ theme = 'congo'
   image = "profile.jpg" # Plik należy umieścić w folderze: assets/profile.jpg
   headline = "Senior Data Analyst | Generative AI & Customer Experience"
   bio = "Zapraszam do kontaktu i wymiany doświadczeń w obszarze Data & AI!"
+  tocTitle = "Spis treści"
   links = [
     { email = "mailto:marcin.pendolski@gmail.com" },
     { linkedin = "https://linkedin.com/in/marcinpendolski" },
