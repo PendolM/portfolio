@@ -26,7 +26,7 @@ theme = 'congo'
   name = "Marcin Pendolski"
   image = "profile.jpg" # Plik należy umieścić w folderze: assets/profile.jpg
   headline = "Senior Data Analyst | Generative AI & Customer Experience"
-  bio = "15 lat doświadczenia w analizie danych CX i Contact Center. W Grupie TAURON odpowiadam za transformację danych w decyzje biznesowe. Wdrażam modele GenAI i analizę sentymentu do optymalizacji obsługi milionów klientów. Zapraszam do kontaktu i wymiany doświadczeń w obszarze Data & AI!"
+  bio = "Zapraszam do kontaktu i wymiany doświadczeń w obszarze Data & AI!"
   links = [
     { email = "mailto:marcin.pendolski@gmail.com" },
     { linkedin = "https://linkedin.com/in/marcinpendolski" },
@@ -47,17 +47,23 @@ theme = 'congo'
   showInHeader = true
 
 # Główne menu nawigacyjne (będzie wyrównane do prawej dzięki nagłówkowi flex)
+
 [[menu.main]]
-  name = "Blog"
-  url = "/posts/"
+  name = "O mnie"
+  url = "/o_mnie/"
   weight = 10
 
 [[menu.main]]
-  name = "LLM Wiki"
-  url = "/wiki/"
+  name = "Posty"
+  url = "/posts/"
   weight = 20
 
 [[menu.main]]
-  name = "Data vs Mity"
-  url = "/mity/"
+  name = "Analizy"
+  url = "/anal/"
   weight = 30
+
+[[menu.main]]
+  name = "Aplikacje"
+  url = "/app/"
+  weight = 40
