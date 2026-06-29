@@ -1,7 +1,14 @@
 baseURL = 'https://marcinpendolski.pl'
-languageCode = 'pl-pl'
 title = 'Strona główna'
 theme = 'congo'
+defaultContentLanguage = 'pl'
+
+[languages]
+  [languages.pl]
+    languageCode = 'pl-pl'
+    languageName = 'Polski'
+    weight = 1
+
 
 # Congo wymaga wyjścia JSON dla poprawnego działania wbudowanej wyszukiwarki
 [outputs]
