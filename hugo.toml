@@ -1,5 +1,4 @@
 baseURL = 'https://marcinpendolski.pl'
-defaultContentLanguage = 'pl'
 languageCode = 'pl-pl'
 title = 'Strona główna'
 theme = 'congo'
