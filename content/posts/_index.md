@@ -1,5 +1,5 @@
 ---
-title: "Posty LinkedIN"
+title: "Posty LinkedIn"
 description: "Analityk Danych"
 layout: "profile"
 action:
