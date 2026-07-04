@@ -2,7 +2,6 @@
 title: "O mnie"
 showDate: false
 showReadingTime: false
-image: ["obrazek.jpg", "obrazek2.jpg"]
 ---
 
 
@@ -86,6 +85,8 @@ Odpowiadałem za scentralizowanie analityki w obszarze obsługi klienta i budow�
 ## Kursy i szkolenia:
 
 **AI Heroes**, Microsoft
+
+**Eskadra Bielika** Warsztaty lokalne - Od modelu do systemu: Bielik w architekturach RAG
 
 **Umiejętności jutra: AI**, Google
 

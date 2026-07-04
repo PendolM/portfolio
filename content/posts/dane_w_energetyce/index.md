@@ -26,3 +26,5 @@ W dobie transformacji energetycznej, **dane to nasze najważniejsze narzędzie d
 Jakie wyzwania w analizie danych widzicie w swoich branżach? Czy też uważacie, że „czyszczenie danych” to 80% sukcesu?
 
 ![](obrazek.jpg)
+
+Jeśli zainteresował Cię ten wpis, to wejdź w [link](https://www.linkedin.com/posts/marcinpendolski_energetyka-customerservice-dataanalytics-activity-7457468905486340096-JhbE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU) i skomentuj ten post na LinkedIn.
