@@ -6,6 +6,7 @@ image: ["obrazek.jpg", "obrazek2.jpg"]
 ---
 
 
+
 ## Podsumowanie:
 
 Dane nie są celem. Celem są lepsze decyzje.
