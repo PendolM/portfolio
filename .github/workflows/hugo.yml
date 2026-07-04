@@ -33,7 +33,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Install Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@v3.0.0  # ZMIANA: Wymuszenie stabilnej wersji ze wsparciem dla nowego Node
         with:
           hugo-version: 'latest'
           extended: true         # Włączone, bo większość motywów wymaga wersji extended
@@ -48,10 +48,10 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3 # GitHub zaktualizował to w tle, upewnij się że masz dokładnie @v3
         with:
           path: ./public
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v4.3.0 # ZMIANA: Podbicie do wersji w pełni kompatybilnej z Node 24
