@@ -1,18 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posty LinkedIN on Strona główna</title>
+		<title>Archiwum: Posty LinkedIn on Strona główna</title>
 		<link>http://localhost:1313/posts/</link>
-		<description>Recent content in Posty LinkedIN on Strona główna</description>
+		<description>Recent content in Archiwum: Posty LinkedIn on Strona główna</description>
 		<generator>Hugo</generator>
 		<language>pl-pl</language>
 		
 		
 		
 		
-			<lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nancy Duarte</title>
+				<link>http://localhost:1313/posts/nancy_duarte/</link>
+				<pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/nancy_duarte/</guid>
+				<description>&lt;h2 id=&#34;matrix&#34; class=&#34;relative group&#34;&gt;Matrix &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#matrix&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Czytam książkę Nancy Duarte Opowieści ukryte w danych. Jedna myśl uderzyła mnie tak, że od razu wyświetliła mi się przed oczami kultowa scena z Matrixa.&lt;/p&gt;&#xA;&lt;p&gt;Ta, w której Morfeusz daje Neo czerwoną pigułkę.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bohater&#34; class=&#34;relative group&#34;&gt;Bohater &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#bohater&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Zwróćcie uwagę, że Morfeusz nie opowiadał wtedy przez dwie godziny o jej składzie chemicznym. Dał mu po prostu narzędzie do podjęcia decyzji.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>LLM WIKI</title>
+				<link>http://localhost:1313/posts/llm_wiki/</link>
+				<pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/llm_wiki/</guid>
+				<description>&lt;h2 id=&#34;rag&#34; class=&#34;relative group&#34;&gt;RAG &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rag&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Klasyczny &lt;strong&gt;RAG&lt;/strong&gt; (Retrieval-Augmented Generation) przypomina menedżera, który przed każdym spotkaniem musi od nowa czytać te same raporty, aby przypomnieć sobie podstawowe fakty. Męczące, powtarzalne i mało efektywne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;koncepcja-karpathyego&#34; class=&#34;relative group&#34;&gt;Koncepcja Karpathy&amp;rsquo;ego &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#koncepcja-karpathyego&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Zainspirowany koncepcją &lt;strong&gt;Andreja Karpathy’ego&lt;/strong&gt; zacząłem budować prywatne &lt;strong&gt;LLM Wiki&lt;/strong&gt; (oparte na Pythonie, Gemini i Obsidianie). Moim celem było zebranie praktycznych doświadczeń i sprawdzenie, czy możliwa jest budowa systemu, który uczy się raz, zamiast za każdym razem wracać do plików źródłowych.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wyobraź sobie indyka</title>
+				<link>http://localhost:1313/posts/indyk/</link>
+				<pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/indyk/</guid>
+				<description>&lt;h2 id=&#34;indyk&#34; class=&#34;relative group&#34;&gt;Indyk &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#indyk&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Wyobraź sobie indyka. Przez 1000 dni karmienia jest pewien, że rzeźnik kocha go najbardziej na świecie. Każdy punkt danych potwierdza tę prognozę. Aż nadchodzi Święto Dziękczynienia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;antykruchość&#34; class=&#34;relative group&#34;&gt;Antykruchość &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#antykrucho%c5%9b%c4%87&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;W biznesie zbyt często optymalizujemy procesy pod historyczne średnie. Jako analityk danych nie szukam w tabelach szklanej kuli. Szukam &lt;strong&gt;antykruchości&lt;/strong&gt; Taleba. Chodzi o architekturę, która zamiast pękać przy kryzysie, wykorzystuje chaos na swoją korzyść.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Moje przemyślenia po 15 latach pracy</title>
+				<link>http://localhost:1313/posts/przemyslenia/</link>
+				<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/przemyslenia/</guid>
+				<description>&lt;h2 id=&#34;technologia&#34; class=&#34;relative group&#34;&gt;Technologia &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#technologia&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Moje przemyślenia po 15 latach pracy jako analityk danych.&lt;/p&gt;&#xA;&lt;p&gt;Przez większość kariery analizując dane dla obszaru obsługi klienta i contact center byłem przekonany, że moja praca zawsze leży na styku technologii i biznesu. W praktyce jednak skupiałem się głównie na procesach ETL i architekturze danych:&lt;/p&gt;&#xA;&lt;p&gt;• Dbaniu o maksymalną czystość i jakość danych.&lt;br&gt;&#xA;• Optymalizowaniu baz i szybkości ładowania raportów.&lt;br&gt;&#xA;• Dostarczaniu biznesowi twardych, niezawodnych fundamentów.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Mad Max vs StarTrek</title>
+				<link>http://localhost:1313/posts/mad_max_startrek/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/mad_max_startrek/</guid>
+				<description>&lt;h2 id=&#34;wiek-klienta&#34; class=&#34;relative group&#34;&gt;Wiek Klienta &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#wiek-klienta&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Mad Max vs. Star Trek: dlaczego wiek klienta pali Twój budżet operacyjny?&lt;/p&gt;&#xA;&lt;p&gt;Młodsze pokolenie nie chce rozmawiać z Twoim konsultantem. Starsze nie zamierza dyskutować z Twoim botem, potrzebuje kontaktu z człowiekiem.&lt;/p&gt;&#xA;&lt;p&gt;Projektowanie podróży klienta w branży energetycznej bez segmentacji demograficznej to jak próba siłowego połączenia dwóch różnych galaktyk:&lt;/p&gt;&#xA;&lt;h2 id=&#34;dwa-światy&#34; class=&#34;relative group&#34;&gt;Dwa Światy &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#dwa-%c5%9bwiaty&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Świat Mad Maxa&lt;/strong&gt;: Klienci szukający prostych, sprawdzonych i &amp;ldquo;analogowych&amp;rdquo; rozwiązań, by po prostu szybko załatwić sprawę.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Matrix</title>
+				<link>http://localhost:1313/posts/matrix/</link>
+				<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/matrix/</guid>
+				<description>&lt;h2 id=&#34;dane-vs-wnioski&#34; class=&#34;relative group&#34;&gt;Dane vs. wnioski &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#dane-vs-wnioski&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Dane są techniczne. Wnioski muszą być ludzkie.&lt;/p&gt;&#xA;&lt;p&gt;Pamiętacie Cyphera z &lt;strong&gt;Matrixa&lt;/strong&gt;? Patrzył na spadające zielone znaki i mówił: „Nawet na to nie patrzę. Widzę tylko blondynkę, brunetkę, rudą&amp;hellip;”.&lt;/p&gt;&#xA;&lt;h2 id=&#34;rola-analityka&#34; class=&#34;relative group&#34;&gt;Rola Analityka &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rola-analityka&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;W branży energetycznej, analizując dane z contact center łatwo utonąć w takim cyfrowym szumie. Widzimy piki zgłoszeń, czas obsługi i wskaźniki SLA.&lt;br&gt;&#xA;Ale biznes nie chce oglądać &lt;strong&gt;Matrixa&lt;/strong&gt;. Chce wiedzieć, co dzieje się w realnym świecie.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Stranger Data</title>
+				<link>http://localhost:1313/posts/stranger_data/</link>
+				<pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/stranger_data/</guid>
+				<description>&lt;h2 id=&#34;wskaźniki-kpi&#34; class=&#34;relative group&#34;&gt;Wskaźniki KPI &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#wska%c5%baniki-kpi&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Znasz ten moment? Patrzysz na dashboard: &lt;strong&gt;wskaźniki KPI&lt;/strong&gt; świecą na zielono, SLA dowiezione, wykresy wyglądają perfekcyjnie. Nasza znajoma, bezpieczna rzeczywistość podpowiada: &amp;ldquo;Wszystko działa jak w zegarku&amp;rdquo;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;upside-down&#34; class=&#34;relative group&#34;&gt;Upside Down &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#upside-down&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;A jednak&amp;hellip; proces wciąż gdzieś przecieka.&lt;br&gt;&#xA;Dzieje się tak, bo pod powierzchnią tych idealnych tabel istnieje &lt;strong&gt;„Druga Strona” (Upside Down)&lt;/strong&gt; - mroczny świat nieustrukturyzowanych danych: tysiące e-maili, czatów i chaotycznych notatek z call center.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Czy Twój dashboard zdałby egzamin na Eurowizji?</title>
 				<link>http://localhost:1313/posts/eurowizja/</link>

@@ -32,7 +32,7 @@ defaultContentLanguage = 'pl'
 [params.author]
   name = "Marcin Pendolski"
   image = "profile.jpg" # Plik należy umieścić w folderze: assets/profile.jpg
-  headline = "Senior Data Analyst | Generative AI & Customer Experience"
+  headline = "Analityk Danych | AI, Customer Experience i Optymalizacja Procesów | Contact Center | SQL | Power BI"
   bio = "Zapraszam do kontaktu i wymiany doświadczeń w obszarze Data & AI!"
   tocTitle = "Spis treści"
   links = [
