@@ -26,3 +26,5 @@ Gdy do LLM Wiki dodaję raport, artykuł czy kod, system nie tworzy osobnej wysp
 Zamiast chaotycznego archiwum plików buduję dynamiczny kapitał intelektualny, który rośnie i aktualizuje się sam z każdym nowym dokumentem.  
 
 ![](obrazek.jpg)
+
+Jeśli zainteresował Cię ten wpis, to wejdź w [link](https://www.linkedin.com/posts/marcinpendolski_dataanalytics-ai-knowledgemanagement-activity-7470182602943987712-C57k?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU) i skomentuj ten post na LinkedIn.

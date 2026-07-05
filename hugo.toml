@@ -62,21 +62,16 @@ defaultContentLanguage = 'pl'
   weight = 10
 
 [[menu.main]]
-  name = "Aktywność"
-  url = "/akt/"
-  weight = 20
-
-[[menu.main]]
   name = "LinkedIn"
   url = "/posts/"
-  weight = 30
+  weight = 20
 
 [[menu.main]]
   name = "Analizy"
   url = "/anal/"
-  weight = 40
+  weight = 30
 
 [[menu.main]]
   name = "Aplikacje"
   url = "/app/"
-  weight = 50
+  weight = 40

@@ -22,3 +22,5 @@ To właśnie tam ukryte są powody, dla których procesy zawodzą:
 Szacuje się, że nawet 80% kluczowych informacji o doświadczeniach klienta to po prostu tekst. Jako analitycy nie możemy ignorować tej przestrzeni. Wykorzystanie AI do **analizy sentymentu** to nie „gadżet”. To nasza latarka, która pozwala wejść na **„Drugą Stronę”**, przetłumaczyć chaos na twarde wnioski i realnie naprawić biznes.  
 
 ![](obrazek.jpg)
+
+Jeśli zainteresował Cię ten wpis, to wejdź w [link](https://www.linkedin.com/posts/marcinpendolski_customerexperience-cx-contactcenter-activity-7462521200221609984-4xxg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU) i skomentuj ten post na LinkedIn.

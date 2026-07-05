@@ -81,14 +81,34 @@ Odpowiadałem za scentralizowanie analityki w obszarze obsługi klienta i budow�
 
 **Politologia**, specjalność **polityka społeczna** (2004–2009, ocena: bardzo dobry)
 
+## Aktywność dodatkowa:
+
+**Inicjatywna #ActionLearning w Zespole Wilki**, czyli aktywny udział w programie menedżerskim zorientowanym na rozwiązywanie realnych wyzwań biznesowych skierowany dla mężczyzn. 
+Projekt realizowany od kwietnia do października 2026 roku.
+Przebieg inauguracji projektu w Katowicach można zobaczyć w [nagraniu na Dysku Google](https://drive.google.com/file/d/1Z5Qy8hJrLIhj6QMHV9UptIW-DqQG0O0V/view?usp=share_link) 
+oraz w [podsumowaniu na LinkedIn](https://www.linkedin.com/posts/marcinpendolski_actionlearning-actionlearning-actionlearning-activity-7452349815046193152-CWQY?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU).
+
+**Udział w podcaście „Po drugiej stronie schematów”** w roli prelegenta na temat wpływu męskiej emocjonalności na komunikację, podejmowanie decyzji oraz jakość współpracy w zespołach zawodowych. 
+Nagranie z tej ważnej i nieszablonowej rozmowy jest dostępne na [Dysku Google](https://drive.google.com/file/d/1Da3KrXAO5JS-rMrHcLWAMpzYwnDM7LJW/view?usp=share_link), 
+a dyskusję i opinie znajdziesz we [wpisie na LinkedIn](https://www.linkedin.com/posts/marcinpendolski_tauron-tauronobslugaklienta-raejwniwraejahqnorodnoagjci-activity-7477696875794497536-fx8Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU).
+
+**Udział w panelu „Technologie przyszłości” (CYBERSEC)** dotyczącego strategicznego wyboru technologii, budowania przewag konkurencyjnych oraz wyszukiwania nisz rynkowych w erze cyfrowej. 
+Podsumowanie kluczowych wniosków oraz relację z tego wydarzenia znajdziesz we [wpisie na LinkedIn](https://www.linkedin.com/posts/marcinpendolski_cybersec2026-technologieprzyszagkoagjci-ai-activity-7472327221085593600-5akZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU).
+
+**Charytatywny bieg 5 km „Biegnij dla Aniołów”** poprzez udział w biegowej inicjatywie charytatywnej wspierającej lokalną społeczność, łączącej sportową rywalizację z zaangażowaniem społecznym zespołu. 
+Podsumowanie wydarzenia, zdjęcia oraz relację z przebiegu akcji znajdziesz we [wpisie na LinkedIn](https://www.linkedin.com/posts/marcinpendolski_taurondobraenergia-tauron-tauronbiegnijdlaanioagkaejw-activity-7466825585366028288-15xB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU).
 
 ## Kursy i szkolenia:
 
 **AI Heroes**, Microsoft
 
-**Eskadra Bielika** Warsztaty lokalne - Od modelu do systemu: Bielik w architekturach RAG
+**DWthon Memory (Data Workshop)**, czyli praktycznie o pamięci Agentów AI- koniecznie zobacz [wpis na LinkedIn](https://www.linkedin.com/posts/marcinpendolski_dwthon-dataworkshop-ai-activity-7478685321300246528-IPEr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU).
 
-**Umiejętności jutra: AI**, Google
+**Eskadra Bielika** Warsztaty lokalne - Od modelu do systemu: Bielik w architekturach RAG, a dodatkowe informacje możesz znaleźć we [wpisie na LinkedIn](https://www.linkedin.com/posts/marcinpendolski_eskadrybielika-ai-rag-activity-7475851957102874624-PX2N?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU).
+
+**Umiejętności jutra: AI** od Google, zobacz [wpis na LinkedIn](https://www.linkedin.com/posts/marcinpendolski_certyfikat-umiej%C4%99tno%C5%9Bci-jutra-ai-activity-7470537408967532545-O6G9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU) na ten temat.
+
+**Szkolenie AIDEAS Level up** na temat budowy Agentów AI, zobacz na [LinkedIn](https://www.linkedin.com/posts/marcinpendolski_generatorpomysagkaejw-aideas-aideaslevelup-activity-7460705536943198208-UzD9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU).
 
 **Komplekswoe szkolenie Power BI** Desktop, Dax, Online (5 dni), JSystem
 

@@ -25,3 +25,5 @@ Bohaterem jest menedżer. To on mierzy się z uciekającym budżetem, ryzykuje i
 Biznes nie chce podziwiać Twojego zaplecza technicznego. Potrzebuje jasnej rekomendacji, która uzbroi menedżera w wiedzę i pozwoli mu wygrać jego własną bitwę. Dopiero gdy przestaniesz udowadniać, jak skomplikowana była Twoja praca, zaczniesz dostarczać realną wartość.   
 
 ![](obrazek.jpg)
+
+Jeśli zainteresował Cię ten wpis, to wejdź w [link](https://www.linkedin.com/posts/marcinpendolski_datastorytelling-analizadanych-businessintelligence-activity-7471946360003461121-zp_z?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU) i skomentuj ten post na LinkedIn.

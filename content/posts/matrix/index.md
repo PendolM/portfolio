@@ -32,3 +32,5 @@ Dane to tylko **fundament**: Cyfry mówią co się dzieje, ale dopiero empatia i
 Dane są techniczne. Decyzje - zawsze ludzkie.  
 
 ![](obrazek.jpg)
+
+Jeśli zainteresował Cię ten wpis, to wejdź w [link](https://www.linkedin.com/posts/marcinpendolski_datastorytelling-customerexperience-ai-activity-7463121548850294784-AfCj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU) i skomentuj ten post na LinkedIn.

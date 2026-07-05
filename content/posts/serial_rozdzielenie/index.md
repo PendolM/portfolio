@@ -25,3 +25,5 @@ A Wy? Widzicie w swoich firmach procesy, które AI mogłoby skrócić z "całego
 
 ![](obrazek.jpg)
 ![](obrazek1.jpg)
+
+Jeśli zainteresował Cię ten wpis, to wejdź w [link](https://www.linkedin.com/posts/marcinpendolski_energysector-dataanalytics-customerexperience-activity-7459852422547542016-sS1S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU) i skomentuj ten post na LinkedIn.

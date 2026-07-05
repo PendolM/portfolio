@@ -33,3 +33,5 @@ Jeśli Twój zespół lub zarząd potrzebuje instrukcji, żeby zrozumieć raport
 A jak wygląda scoreboard w Twojej firmie? Informuje w 3 sekundy czy wymaga "głosowania jurorów", żeby wyciągnąć wnioski? 
 
 ![](obrazek.jpg)
+
+Jeśli zainteresował Cię ten wpis, to wejdź w [link](https://www.linkedin.com/posts/marcinpendolski_obsagkugaklienta-energetyka-wizualizacjadanych-activity-7461478963736006657-uY4y?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU) i skomentuj ten post na LinkedIn.

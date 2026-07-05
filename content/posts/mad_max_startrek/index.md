@@ -33,3 +33,5 @@ Efekt? Patrząc na dwie skrajne kohorty, to zamiast seryjnego wysyłania tych sa
 Segmentacja behawioralno-demograficzna to nie luksus to czysta optymalizacja OPEX. Kluczem do sukcesu nie jest wdrożenie najnowszego bota dla każdego, ale precyzyjne dopasowanie kanału dotarcia tam, gdzie realnie przynosi on konwersję.  
 
 ![](obrazek.jpg)
+
+Jeśli zainteresował Cię ten wpis, to wejdź w [link](https://www.linkedin.com/posts/marcinpendolski_dataanalytics-customerexperience-predictiveanalytics-activity-7464676764523364352-f79D?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU) i skomentuj ten post na LinkedIn.

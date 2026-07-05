@@ -27,3 +27,5 @@ Jak przestać być biznesowym indykiem? Trzy kroki:
 W którą stronę idą dziś Twoje systemy: ślepej optymalizacji pod średnią czy budowania antykruchości na chaos?
 
 ![](obrazek.jpg)
+
+Jeśli zainteresował Cię ten wpis, to wejdź w [link](https://www.linkedin.com/posts/marcinpendolski_dane-strategiabiznesowa-zarzafbdzanie-activity-7468333091921551360-DmbV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU) i skomentuj ten post na LinkedIn.
