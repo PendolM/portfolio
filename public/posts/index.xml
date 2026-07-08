@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Własna strona www</title>
+				<link>http://localhost:1313/posts/strona/</link>
+				<pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/strona/</guid>
+				<description>&lt;h2 id=&#34;pomysł&#34; class=&#34;relative group&#34;&gt;Pomysł &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pomys%c5%82&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Uruchomiłem stronę marcinpendolski.pl&lt;/p&gt;&#xA;&lt;p&gt;Chcę mieć jedno miejsce na zbieranie swoich przemyśleń i wniosków z pracy oraz dodatkowych projektów, które realizuje.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wykonanie&#34; class=&#34;relative group&#34;&gt;Wykonanie &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#wykonanie&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Zamiast WordPressa, wybrałem Hugo z motywem Congo i hosting bezpośrednio na GitHub Pages.&lt;/p&gt;&#xA;&lt;p&gt;O ile samo wygenerowanie strony z Hugo poszło sprawnie, o tyle podpięcie pod własną domenę i konfiguracja routingu DNS już nie.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Nancy Duarte</title>
 				<link>http://localhost:1313/posts/nancy_duarte/</link>
