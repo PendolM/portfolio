@@ -14,6 +14,15 @@ defaultContentLanguage = 'pl'
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "dracula"
+
 [params]
   # Estetyka i kolorystyka (slate = nowoczesny, techniczny grafit)
   colorScheme = "slate"

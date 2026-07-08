@@ -4,21 +4,42 @@
   
     
       <url>
-            <loc>http://localhost:1313/posts/</loc>
-            <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+            <loc>http://localhost:1313/app/llm_wiki_py/</loc>
+            <lastmod>2026-07-08T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/posts/nancy_duarte/</loc>
-            <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+            <loc>http://localhost:1313/app/</loc>
+            <lastmod>2026-07-08T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
             <loc>http://localhost:1313/</loc>
+            <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/</loc>
+            <lastmod>2026-07-05T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/strona/</loc>
+            <lastmod>2026-07-05T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/nancy_duarte/</loc>
             <lastmod>2026-06-14T00:00:00+00:00</lastmod>
           </url>
     
@@ -67,13 +88,6 @@
   
     
       <url>
-            <loc>http://localhost:1313/posts/strona/</loc>
-            <lastmod>2026-05-23T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
             <loc>http://localhost:1313/posts/eurowizja/</loc>
             <lastmod>2026-05-19T00:00:00+00:00</lastmod>
           </url>
@@ -98,12 +112,6 @@
     
       <url>
             <loc>http://localhost:1313/anal/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/app/</loc>
           </url>
     
   

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>LLM Wiki pod maską: Python, Obsidian i Gemini</title>
+				<link>http://localhost:1313/app/llm_wiki_py/</link>
+				<pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/app/llm_wiki_py/</guid>
+				<description>&lt;p&gt;W pierwszym &lt;a href=&#34;https://www.linkedin.com/posts/marcinpendolski_dataanalytics-ai-knowledgemanagement-share-7470182601656565760-lkeY/?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAACLNJl4BEVvx8Dyrv3vQKWalkk_oHr4oJEU&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;wpisie na LinkedIn&lt;/a&gt; opisałem koncepcję własnego LLM Wiki jako alternatywę dla standardowego podejścia RAG. Zamiast wektoryzować i przeszukiwać dokumenty przy każdym zapytaniu, system jednorazowo kompiluje i strukturyzuje wiedzę.&lt;/p&gt;&#xA;&lt;p&gt;Poniżej omawiam architekturę i kod z repozytorium llm_wiki na GitHubie. Architektura celowo odrzuca bazy wektorowe na rzecz pełnego okna kontekstowego modeli Google Gemini i ścisłej strukturyzacji danych wejściowych.&lt;/p&gt;&#xA;&lt;h2 id=&#34;struktura-danych-i-wymuszanie-schematu-pydantic_modelspy&#34; class=&#34;relative group&#34;&gt;Struktura danych i wymuszanie schematu (pydantic_models.py) &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#struktura-danych-i-wymuszanie-schematu-pydantic_modelspy&#34; aria-label=&#34;Kotwica&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Domyślnym wyjściem modelu LLM jest nieustrukturyzowany tekst, co utrudnia automatyzację. Aby zintegrować model z systemem plików, stosuję bibliotekę Pydantic do zdefiniowania sztywnego schematu wyjściowego (JSON). Model działa tu jako agent decyzyjny operujący na notatkach:&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Własna strona www</title>
 				<link>http://localhost:1313/posts/strona/</link>

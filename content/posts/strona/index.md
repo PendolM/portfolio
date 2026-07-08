@@ -18,7 +18,7 @@ O ile samo wygenerowanie strony z Hugo poszło sprawnie, o tyle podpięcie pod w
 
 Trochę walczyłem z rekordami A, CNAME i odświeżaniem stref DNS dla GitHub Pages. Ostatecznie skorzystałem z AI w roli szybkiego konsultanta oraz klasycznego supportu.
 
-# Zaproszenie
+## Zaproszenie
 
 Jeśli masz ochotę zobaczyć pierwsze efekty (i śledzić, jak z czasem będzie przybywać tam nowych treści), zajrzyj bezpośrednio tutaj: marcinpendolski.pl
 
