@@ -1,5 +1,5 @@
 ---
-title: "`Równość`"
+title: "Równość"
 date: 2026-07-14
 image: "obrazek.jpg"
 ---
